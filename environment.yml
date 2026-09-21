@@ -1,0 +1,6 @@
+name: heatex
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
